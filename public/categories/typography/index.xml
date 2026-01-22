@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typography on MBLOG</title>
+    <link>http://localhost:1313/categories/typography/</link>
+    <description>Recent content in Typography on MBLOG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2026 11:15:17 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/typography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La typographie au cœur de l’expérience utilisateur : bien choisir ses tailles de texte en UX/UI</title>
+      <link>http://localhost:1313/posts/2023/tailles-typo/</link>
+      <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2023/tailles-typo/</guid>
+      <description>&lt;h2 id=&#34;contexte--source&#34;&gt;Contexte &amp;amp; source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titre de l’article / ressource&lt;/strong&gt;&lt;br&gt;&#xA;Font Size Usage in UI/UX Design: Web, Mobile &amp;amp; Tablet&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Auteur, date, lien&lt;/strong&gt;&lt;br&gt;&#xA;Naveen Prasath, &lt;em&gt;Design Bootcamp&lt;/em&gt; — article en ligne (consulté en janvier 2026)&lt;br&gt;&#xA;&lt;a href=&#34;https://medium.com/design-bootcamp/font-size-usage-in-ui-ux-design-web-mobile-tablet-52a9e17c16ce&#34;&gt;https://medium.com/design-bootcamp/font-size-usage-in-ui-ux-design-web-mobile-tablet-52a9e17c16ce&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

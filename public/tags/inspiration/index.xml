@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspiration on MBLOG</title>
+    <link>http://localhost:1313/tags/inspiration/</link>
+    <description>Recent content in Inspiration on MBLOG</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jan 2026 11:15:17 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/inspiration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon système d’écoute : comment j’organise ma veille pour progresser en UX/UI</title>
+      <link>http://localhost:1313/posts/2023/veille/</link>
+      <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
+      <guid>http://localhost:1313/posts/2023/veille/</guid>
+      <description>&lt;h2 id=&#34;construire-sa-culture-design--comment-je-minspire-japprends-et-je-progresse&#34;&gt;Construire sa culture design : comment je m’inspire, j’apprends et je progresse&lt;/h2&gt;&#xA;&lt;p&gt;Dans un domaine comme le design UX/UI, rester à jour n’est pas une option : c’est une nécessité. Les outils évoluent, les usages changent, les tendances apparaissent et disparaissent. Pour continuer à progresser, améliorer ma pratique et nourrir mes projets, j’ai mis en place un &lt;strong&gt;système d’écoute et de veille&lt;/strong&gt; qui fait aujourd’hui partie intégrante de mon quotidien de designer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
