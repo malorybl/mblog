@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marketing Digital on MBLOG</title>
-    <link>http://localhost:1313/tags/marketing-digital/</link>
+    <link>http://localhost:1313/mblog/tags/marketing-digital/</link>
     <description>Recent content in Marketing Digital on MBLOG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Jan 2026 09:30:32 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/marketing-digital/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mblog/tags/marketing-digital/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprendre et éviter les interfaces manipulatoires en UX/UI - Dark patterns</title>
-      <link>http://localhost:1313/posts/2022/dark-patterns/</link>
+      <link>http://localhost:1313/mblog/posts/2022/dark-patterns/</link>
       <pubDate>Fri, 16 Jan 2026 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/dark-patterns/</guid>
+      <guid>http://localhost:1313/mblog/posts/2022/dark-patterns/</guid>
       <description>&lt;h2 id=&#34;contexte--source&#34;&gt;Contexte &amp;amp; source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titre de l’article / ressource&lt;/strong&gt;&lt;br&gt;&#xA;Dark Patterns, des pièges pour l’UX Design&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Auteur, date, lien&lt;/strong&gt;&lt;br&gt;&#xA;Usabilis, article en ligne (consulté en janvier 2026)&lt;br&gt;&#xA;&lt;a href=&#34;https://usabilis.com/dark-patterns-pieges-ux-design/&#34;&gt;https://usabilis.com/dark-patterns-pieges-ux-design/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le design persuasif</title>
-      <link>http://localhost:1313/posts/2022/design-persuasif/</link>
+      <link>http://localhost:1313/mblog/posts/2022/design-persuasif/</link>
       <pubDate>Thu, 15 Jan 2026 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/2022/design-persuasif/</guid>
+      <guid>http://localhost:1313/mblog/posts/2022/design-persuasif/</guid>
       <description>&lt;h2 id=&#34;contexte--source&#34;&gt;Contexte &amp;amp; source&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Titre de l’article / ressource&lt;/strong&gt;&lt;br&gt;&#xA;Design persuasif et biais cognitifs en UX&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Auteur, date, lien&lt;/strong&gt;&lt;br&gt;&#xA;Didier Mazier, LinkedIn Learning, cours en ligne (consulté en janvier 2026)&lt;br&gt;&#xA;&lt;a href=&#34;https://www.linkedin.com/learning/&#34;&gt;https://www.linkedin.com/learning/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

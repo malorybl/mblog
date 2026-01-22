@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MBLOG</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/mblog/tags/</link>
     <description>Recent content in Tags on MBLOG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Jan 2026 11:15:17 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audit</title>
-      <link>http://localhost:1313/tags/audit/</link>
+      <link>http://localhost:1313/mblog/tags/audit/</link>
       <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/audit/</guid>
+      <guid>http://localhost:1313/mblog/tags/audit/</guid>
       <description></description>
     </item>
     <item>
       <title>Design Ui</title>
-      <link>http://localhost:1313/tags/design-ui/</link>
+      <link>http://localhost:1313/mblog/tags/design-ui/</link>
       <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/design-ui/</guid>
+      <guid>http://localhost:1313/mblog/tags/design-ui/</guid>
       <description></description>
     </item>
     <item>
       <title>Design Ux</title>
-      <link>http://localhost:1313/tags/design-ux/</link>
+      <link>http://localhost:1313/mblog/tags/design-ux/</link>
       <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/design-ux/</guid>
+      <guid>http://localhost:1313/mblog/tags/design-ux/</guid>
       <description></description>
     </item>
     <item>
       <title>Inspiration</title>
-      <link>http://localhost:1313/tags/inspiration/</link>
+      <link>http://localhost:1313/mblog/tags/inspiration/</link>
       <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/inspiration/</guid>
+      <guid>http://localhost:1313/mblog/tags/inspiration/</guid>
       <description></description>
     </item>
     <item>
       <title>Veille</title>
-      <link>http://localhost:1313/tags/veille/</link>
+      <link>http://localhost:1313/mblog/tags/veille/</link>
       <pubDate>Wed, 21 Jan 2026 11:15:17 +0700</pubDate>
-      <guid>http://localhost:1313/tags/veille/</guid>
+      <guid>http://localhost:1313/mblog/tags/veille/</guid>
       <description></description>
     </item>
     <item>
       <title>Formation</title>
-      <link>http://localhost:1313/tags/formation/</link>
+      <link>http://localhost:1313/mblog/tags/formation/</link>
       <pubDate>Wed, 21 Jan 2026 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/formation/</guid>
+      <guid>http://localhost:1313/mblog/tags/formation/</guid>
       <description></description>
     </item>
     <item>
       <title>Technologie</title>
-      <link>http://localhost:1313/tags/technologie/</link>
+      <link>http://localhost:1313/mblog/tags/technologie/</link>
       <pubDate>Wed, 21 Jan 2026 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/technologie/</guid>
+      <guid>http://localhost:1313/mblog/tags/technologie/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing Digital</title>
-      <link>http://localhost:1313/tags/marketing-digital/</link>
+      <link>http://localhost:1313/mblog/tags/marketing-digital/</link>
       <pubDate>Fri, 16 Jan 2026 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/marketing-digital/</guid>
+      <guid>http://localhost:1313/mblog/tags/marketing-digital/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychologie</title>
-      <link>http://localhost:1313/tags/psychologie/</link>
+      <link>http://localhost:1313/mblog/tags/psychologie/</link>
       <pubDate>Fri, 16 Jan 2026 09:30:32 +0700</pubDate>
-      <guid>http://localhost:1313/tags/psychologie/</guid>
+      <guid>http://localhost:1313/mblog/tags/psychologie/</guid>
       <description></description>
     </item>
   </channel>

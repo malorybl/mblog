@@ -27,7 +27,7 @@ Pour mieux comprendre ce qui guide mon travail et mes choix, j’ai formalisé m
 
 Ce schéma me permet de clarifier mon positionnement en tant que designer et de donner du sens à ce que je construis. On y retrouve mon attrait pour le **design d’interface**, la **psychologie utilisateur**, la **création d’expériences émotionnelles** et la volonté de concevoir des produits **utiles, accessibles et humains**.
 
-![Mon Ikigai](mblog/images/ikigai.png)
+![Mon Ikigai](/mblog/images/ikigai.png)
 
 Au centre de ce diagramme se trouve ce qui résume le mieux ma démarche :
 

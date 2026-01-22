@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/audit/</loc>
+    <loc>http://localhost:1313/mblog/tags/audit/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/mblog/categories/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design-ui/</loc>
+    <loc>http://localhost:1313/mblog/tags/design-ui/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design-ux/</loc>
+    <loc>http://localhost:1313/mblog/tags/design-ux/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/inspiration/</loc>
+    <loc>http://localhost:1313/mblog/tags/inspiration/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/tailles-typo/</loc>
+    <loc>http://localhost:1313/mblog/posts/2023/tailles-typo/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/mblog/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2023/veille/</loc>
+    <loc>http://localhost:1313/mblog/posts/2023/veille/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/mblog/posts/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/mblog/tags/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/typography/</loc>
+    <loc>http://localhost:1313/mblog/categories/typography/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/veille/</loc>
+    <loc>http://localhost:1313/mblog/categories/veille/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/veille/</loc>
+    <loc>http://localhost:1313/mblog/tags/veille/</loc>
     <lastmod>2026-01-21T11:15:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2022/llm/</loc>
+    <loc>http://localhost:1313/mblog/posts/2022/llm/</loc>
     <lastmod>2026-01-21T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/formation/</loc>
+    <loc>http://localhost:1313/mblog/tags/formation/</loc>
     <lastmod>2026-01-21T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/technologie/</loc>
+    <loc>http://localhost:1313/mblog/categories/technologie/</loc>
     <lastmod>2026-01-21T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/technologie/</loc>
+    <loc>http://localhost:1313/mblog/tags/technologie/</loc>
     <lastmod>2026-01-21T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2022/dark-patterns/</loc>
+    <loc>http://localhost:1313/mblog/posts/2022/dark-patterns/</loc>
     <lastmod>2026-01-16T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/marketing-digital/</loc>
+    <loc>http://localhost:1313/mblog/tags/marketing-digital/</loc>
     <lastmod>2026-01-16T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/psychologie/</loc>
+    <loc>http://localhost:1313/mblog/tags/psychologie/</loc>
     <lastmod>2026-01-16T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ux/ui-design/</loc>
+    <loc>http://localhost:1313/mblog/categories/ux/ui-design/</loc>
     <lastmod>2026-01-16T09:30:32+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/mblog/about/</loc>
     <lastmod>2026-01-15T20:37:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2022/design-persuasif/</loc>
+    <loc>http://localhost:1313/mblog/posts/2022/design-persuasif/</loc>
     <lastmod>2026-01-15T13:03:07+07:00</lastmod>
   </url>
 </urlset>
