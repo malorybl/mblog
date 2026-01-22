@@ -1,4 +1,4 @@
-baseURL = 'https://pehtheme-hugo.netlify.app/'
+baseURL = 'https://malorybl.github.io/mblog'
 languageCode = 'en-us'
 title = 'MBLOG'
 theme = 'pehtheme-hugo'
